@@ -56,14 +56,6 @@ The funnel conversion shows that while user engagement from view to click is str
   Reach out to users who clicked but did not proceed, using tailored ads or email campaigns.  
 
 ---
-
-## Visualization Example
-Below is a sample visualization of the funnel conversion:
-
-![Funnel Conversion Chart](funnel_chart.png)
-
----
-
 ## Tech Stack
 - **Python** (pandas, numpy)  
 - **Matplotlib & Seaborn** (for visualization)  
